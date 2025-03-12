@@ -18,7 +18,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./images/KV-mobile.jpg",
+                "value": "./KV-mobile.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -40,7 +40,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./images/KV.jpg",
+                "value": "./KV.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -94,7 +94,7 @@
               },
               {
                 "name": "asset",
-                "value": "./images/MOD-02.jpg",
+                "value": "./MOD-02.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
@@ -116,7 +116,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./images/MOD-03-mobile.jpg",
+                "value": "./MOD-03-mobile.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -138,7 +138,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./images/MOD-03.jpg",
+                "value": "./MOD-03.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -195,7 +195,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./images/MOD-04-mobile.jpg",
+                "value": "./MOD-04-mobile.jpg",
                 "element": "img",
                 "alt": "Szampon, odżywka, serum, maska",
                 "properties": []
@@ -217,7 +217,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./images/MOD-04.jpg",
+                "value": "./MOD-04.jpg",
                 "element": "img",
                 "alt": "Szampon, odżywka, serum, maska",
                 "properties": []
@@ -253,7 +253,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Natychmiast wygładza włókno <br>włosa, oczyszcza włosy. <br>+93% więcej blasku<sup>1</sup></p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki:</h6><p>Zawiera 4% kompleks keratynowy <br> + olej arganowy.</p></div>",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Natychmiast wygładza włókno <br>włosa, oczyszcza włosy. <br>+93% więcej blasku<sup style=\"font-size:13px\">1</sup></p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki:</h6><p>Zawiera 4% kompleks keratynowy <br> + olej arganowy.</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "13px",
@@ -262,7 +262,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./images/MOD-05-A.jpg",
+                "value": "./MOD-05-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -282,7 +282,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Zapobiega puszeniu, wygładza <br>włókno włosa.<br>+93% więcej blasku<sup>1</sup></p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki:</h6><p>Zawiera 10% kompleks<br> keratynowy + olej arganowy.</p></div>",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Zapobiega puszeniu, wygładza <br>włókno włosa.<br>+93% więcej blasku<sup style=\"font-size:13px\">1</sup></p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki:</h6><p>Zawiera 10% kompleks<br> keratynowy + olej arganowy.</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "13px",
@@ -291,7 +291,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./images/MOD-05-B.jpg",
+                "value": "./MOD-05-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -311,7 +311,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Zapobiega puszeniu się włosów,<br> wygładza włókno włosa. <br>10x gładsze włosy<sup>3</sup></p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki</h6><p>Zawiera 13% kompleks<br> keratynowy + olej arganowy.</p></div>",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Zapobiega puszeniu się włosów,<br> wygładza włókno włosa. <br>10x gładsze włosy<sup style=\"font-size:13px\">3</sup></p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki</h6><p>Zawiera 13% kompleks<br> keratynowy + olej arganowy.</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "13px",
@@ -320,7 +320,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./images/MOD-05-C.jpg",
+                "value": "./MOD-05-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -340,7 +340,7 @@
               },
               {
                 "name": "columnFourText",
-                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Otula włosy wodoodpornym<br> i chroniącym przed wysoką <br>temperaturą filmem, zapobiega<br> puszeniu, nadaje połysk<br> do 5 myć<sup>3</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Rozprowadź na wilgotnych włosach, <br>dozując 1 pompkę. Nie spłukuj. <br>Wyszusz włosy, a następnie użyj<br> prostownicy, aby utrwalić <br>długotrwały efekt kuracji.</p></div>",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Otula włosy wodoodpornym<br> i chroniącym przed wysoką <br>temperaturą filmem, zapobiega<br> puszeniu, nadaje połysk<br> do 5 myć<sup style=\"font-size:13px\">3</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Rozprowadź na wilgotnych włosach, <br>dozując 1 pompkę. Nie spłukuj. <br>Wyszusz włosy, a następnie użyj<br> prostownicy, aby utrwalić <br>długotrwały efekt kuracji.</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "13px",
@@ -349,7 +349,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./images/MOD-05-D.jpg",
+                "value": "./MOD-05-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -401,7 +401,7 @@
               },
               {
                 "name": "asset",
-                "value": "./images/MOD-06.jpg",
+                "value": "./MOD-06.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
@@ -436,7 +436,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div style=\"text-align: center\"><p style=\"font-size:13px;margin-bottom: 3px\"><sup>1</sup> Test instrumentalny po zastosowaniu szamponu i odżywki.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>2</sup> Zdjęcie bez retuszu.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>3</sup> Test instrumentalny.</p></div>",
+                "value": "<div style=\"text-align: center\"><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">1</sup> Test instrumentalny po zastosowaniu szamponu i odżywki.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">2</sup> Zdjęcie bez retuszu.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">3</sup> Test instrumentalny.</p></div>",
                 "element": "DangerHtml",
                 "properties": {}
               }
