@@ -1,0 +1,456 @@
+{
+  "keys": ["not yet"],
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Garnier Keratin Sleek",
+  "rpc": "not yet",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "Garnier Keratin Sleek",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "element": "img",
+                "alt": "Keratin Sleek",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV.jpg",
+                "element": "img",
+                "alt": "Keratin Sleek",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "<p>nowość!</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "normal",
+                  "color": "#000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "textTransform": "uppercase",
+                  "margin-top": "30px",
+                  "maxWidth": "75%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p style=\"color:#b33b18;text-transform:uppercase;font-weight:bold\">Odkryj gamę<br>FRUCTIS KERATIN SLEEK</p><p style=\"font-weight:bold\">Zaawansowana, wodoodporna<br>technologia</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-02.jpg",
+                "element": "img",
+                "alt": "Efekty",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-03-mobile.jpg",
+                "element": "img",
+                "alt": "Keratin Sleek",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-03.jpg",
+                "element": "img",
+                "alt": "Keratin Sleek",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Stwórz swoją rutynę pielęgnacyjną",
+                "element": "p",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "bold",
+                  "color": "#b33b18",
+                  "marginBottom": "0",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "do suchych i puszących się włosów",
+                "element": "p",
+                "properties": {
+                  "text-align": "center",
+                  "marginTop": "-20px",
+                  "fontSize": "26px"
+                }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-04-mobile.jpg",
+                "element": "img",
+                "alt": "Szampon, odżywka, serum, maska",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-04.jpg",
+                "element": "img",
+                "alt": "Szampon, odżywka, serum, maska",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsFour",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Szampon",
+                "element": "h6",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "0.9rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Natychmiast wygładza włókno <br>włosa, oczyszcza włosy. <br>+93% więcej blasku<sup>1</sup></p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki:</h6><p>Zawiera 4% kompleks keratynowy <br> + olej arganowy.</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "13px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-05-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Odżywka",
+                "element": "h6",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "0.9rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Zapobiega puszeniu, wygładza <br>włókno włosa.<br>+93% więcej blasku<sup>1</sup></p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki:</h6><p>Zawiera 10% kompleks<br> keratynowy + olej arganowy.</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "13px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-05-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Maska",
+                "element": "h6",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "0.9rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Zapobiega puszeniu się włosów,<br> wygładza włókno włosa. <br>10x gładsze włosy<sup>3</sup></p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki</h6><p>Zawiera 13% kompleks<br> keratynowy + olej arganowy.</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "13px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-05-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Serum",
+                "element": "h6",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "0.9rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnFourText",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top: -20px;\">Otula włosy wodoodpornym<br> i chroniącym przed wysoką <br>temperaturą filmem, zapobiega<br> puszeniu, nadaje połysk<br> do 5 myć<sup>3</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Rozprowadź na wilgotnych włosach, <br>dozując 1 pompkę. Nie spłukuj. <br>Wyszusz włosy, a następnie użyj<br> prostownicy, aby utrwalić <br>długotrwały efekt kuracji.</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "13px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "http://localhost:8000/images/MOD-05-D.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "<p>Sposób użycia<br>serum Sleek & Stay</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "24px",
+                  "fontWeight": "bold",
+                  "color": "#b33b18",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "margin-top": "30px",
+                  "maxWidth": "75%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p style=\"margin-bottom:0;\">1. UMYJ WŁOSY.</p><p>Użyj szamponu i odżywki Keratin Sleek.</p><br><p style=\"margin-bottom:0;\">2. NAŁÓŻ SERUM</p><p>Nałóż 1 pompkę na osuszone ręcznikiem, wilgotne włosy.</p><br><p style=\"margin-bottom:0;\">3. WYSUSZ WŁOSY</p><p>Dokładnie wysusz włosy.</p><br><p style=\"margin-bottom:0;\">4. UŻYJ PROSTOWNICY</p><p>Aby utrwalić efekt kuracji, użyj prostownicy w temperaturze 180-200°C</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-06.jpg",
+                "element": "img",
+                "alt": "Efekty",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div style=\"text-align: center\"><p style=\"font-size:13px;margin-bottom: 3px\"><sup>1</sup> Test instrumentalny po zastosowaniu szamponu i odżywki.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>2</sup> Zdjęcie bez retuszu.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>3</sup> Test instrumentalny.</p></div>",
+                "element": "DangerHtml",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
