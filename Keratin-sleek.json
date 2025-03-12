@@ -18,7 +18,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "value": "./images/KV-mobile.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -40,7 +40,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/KV.jpg",
+                "value": "./images/KV.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -94,7 +94,7 @@
               },
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-02.jpg",
+                "value": "./images/MOD-02.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
@@ -116,7 +116,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-03-mobile.jpg",
+                "value": "./images/MOD-03-mobile.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -138,7 +138,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-03.jpg",
+                "value": "./images/MOD-03.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -195,7 +195,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-04-mobile.jpg",
+                "value": "./images/MOD-04-mobile.jpg",
                 "element": "img",
                 "alt": "Szampon, odżywka, serum, maska",
                 "properties": []
@@ -217,7 +217,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-04.jpg",
+                "value": "./images/MOD-04.jpg",
                 "element": "img",
                 "alt": "Szampon, odżywka, serum, maska",
                 "properties": []
@@ -262,7 +262,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-05-A.jpg",
+                "value": "./images/MOD-05-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -291,7 +291,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-05-B.jpg",
+                "value": "./images/MOD-05-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -320,7 +320,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-05-C.jpg",
+                "value": "./images/MOD-05-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -349,7 +349,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "http://localhost:8000/images/MOD-05-D.jpg",
+                "value": "./images/MOD-05-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -401,7 +401,7 @@
               },
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-06.jpg",
+                "value": "./images/MOD-06.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
