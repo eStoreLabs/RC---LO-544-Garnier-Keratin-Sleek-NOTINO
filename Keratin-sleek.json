@@ -18,7 +18,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -40,7 +40,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -94,7 +94,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-02.jpg",
+                "value": "MOD-02.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
@@ -116,7 +116,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-03-mobile.jpg",
+                "value": "MOD-03-mobile.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -138,7 +138,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-03.jpg",
+                "value": "MOD-03.jpg",
                 "element": "img",
                 "alt": "Keratin Sleek",
                 "properties": []
@@ -195,7 +195,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-04-mobile.jpg",
+                "value": "MOD-04-mobile.jpg",
                 "element": "img",
                 "alt": "Szampon, odżywka, serum, maska",
                 "properties": []
@@ -217,7 +217,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-04.jpg",
+                "value": "MOD-04.jpg",
                 "element": "img",
                 "alt": "Szampon, odżywka, serum, maska",
                 "properties": []
@@ -262,7 +262,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-05-A.jpg",
+                "value": "MOD-05-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -291,7 +291,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-05-B.jpg",
+                "value": "MOD-05-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -320,7 +320,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-05-C.jpg",
+                "value": "MOD-05-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -349,7 +349,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./MOD-05-D.jpg",
+                "value": "MOD-05-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -401,7 +401,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-06.jpg",
+                "value": "MOD-06.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
