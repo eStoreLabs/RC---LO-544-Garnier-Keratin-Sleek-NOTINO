@@ -1,9 +1,11 @@
 {
-  "keys": ["not yet"],
+  "keys": [
+    "garnier/fructis-keratin-sleek-szampon-z-keratyna-do-nablyszczania-i-zmiekczania-wlosow/"
+  ],
   "type": 0,
   "language": "pl-PL",
   "campaign": "Garnier Keratin Sleek",
-  "rpc": "not yet",
+  "rpc": "GAR07082",
   "dateOnSaleFrom": null,
   "owner": "estore",
   "contents": [
